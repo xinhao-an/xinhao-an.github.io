@@ -17,7 +17,6 @@ My research focuses on structural health monitoring (SHM) and digital twins. My 
 - Dynamic load identification, response reconstruction, and model updating
 - Physics–data hybrid modeling and physics-informed AI
 - Bayesian inference and multi-sensor data fusion
-- Vehicle parameter and road roughness identification
 
 ## Selected publications
 
