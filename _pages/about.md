@@ -13,10 +13,10 @@ My research focuses on structural health monitoring (SHM) and digital twins. My 
 
 ## Research interests
 
-- Structural health monitoring, virtual sensing, and digital twins
-- Dynamic load identification, response reconstruction, and model updating
-- Physics–data hybrid modeling and physics-informed AI
-- Bayesian inference and multi-sensor data fusion
+- Structural health monitoring, virtual sensing, digital twins
+- Dynamic load identification, response reconstruction, model updating
+- Physics–data hybrid modeling, physics-informed AI
+- Bayesian inference, multi-sensor data fusion
 
 ## Selected publications
 
