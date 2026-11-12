@@ -13,7 +13,7 @@ author_profile: true
   <h2>{{ category[1].title }}</h2>
   <ol>
     {% for post in papers %}
-    <li><p>{{ post.citation | replace: "X. An", "<strong>X. An</strong>" }} <a href="{{ post.paperurl | escape }}">DOI</a> · <a href="{{ post.url | relative_url }}">Details</a></p></li>
+    <li><p>{{ post.citation }} <a href="{{ post.paperurl | escape }}">DOI</a> · <a href="{{ post.url | relative_url }}">Details</a></p></li>
     {% endfor %}
   </ol>
   {% endif %}

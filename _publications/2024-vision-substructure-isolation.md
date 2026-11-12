@@ -6,12 +6,12 @@ permalink: "/publication/2024-vision-substructure-isolation/"
 date: "2024-01-01"
 year: 2024
 venue: "Structures"
-citation: "X. An, J. Hou*, D. Xu and G. Dong (2024). Computer vision-based substructure isolation method for localized damage identification. <i>Structures</i>, 70, 107660."
+citation: "<strong>X. An</strong>, J. Hou*, D. Xu and G. Dong (2024). Computer vision-based substructure isolation method for localized damage identification. <i>Structures</i>, 70, 107660."
 paperurl: "https://doi.org/10.1016/j.istruc.2024.107660"
 share: false
 comments: false
 ---
 
-X. An, J. Hou*, D. Xu and G. Dong (2024). Computer vision-based substructure isolation method for localized damage identification. <i>Structures</i>, 70, 107660.
+<strong>X. An</strong>, J. Hou*, D. Xu and G. Dong (2024). Computer vision-based substructure isolation method for localized damage identification. <i>Structures</i>, 70, 107660.
 
 [View publication](https://doi.org/10.1016/j.istruc.2024.107660)
