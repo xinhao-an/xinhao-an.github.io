@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Structural Engineering at the School of Infrastructure Engineering, **Dalian University of Technology**, supervised by **Assoc. Prof. Jilin Hou**. I expect to graduate in **March 2027**. From September 2025 to September 2026, I was a visiting PhD student at **Politecnico di Milano**, hosted by **Prof. Stefano Mariani**.
+Welcome to my homepage. I am a PhD candidate in Structural Engineering at the School of Infrastructure Engineering, **Dalian University of Technology**, and expect to graduate in **March 2027**.
 
 My research focuses on **structural health monitoring**, **inverse dynamics**, and **physics–data hybrid modeling**. I develop methods for identifying dynamic loads, reconstructing structural responses, and updating structural models from limited measurements. My work combines structural dynamics with deep learning, Bayesian inference, and multi-sensor data fusion.
 
-I am interested in extending these methods to physics-informed AI for wind turbine monitoring under sparse sensing, and to monitoring-informed fatigue assessment and remaining useful life prediction.
+I am interested in extending these methods to physics-informed AI for wind turbine monitoring under sparse sensing, as well as monitoring-informed fatigue assessment and remaining useful life prediction.
 
 ## Research interests
 
