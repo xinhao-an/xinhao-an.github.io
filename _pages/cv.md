@@ -44,7 +44,7 @@ September 2016–June 2020
 ### {{ category[1].title }}
 
 {% for post in papers %}
-- {{ post.citation }} [DOI]({{ post.paperurl }})
+- {{ post.citation | replace: '<strong>X. An</strong>', '**X. An**' }} [DOI]({{ post.paperurl }})
 {% endfor %}
 {% endif %}
 {% endfor %}
