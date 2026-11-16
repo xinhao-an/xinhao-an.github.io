@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <p><a href="{{ site.author.googlescholar | escape }}">Google Scholar</a> · <a href="{{ site.author.researchgate | escape }}">ResearchGate</a></p>
-<p>* Corresponding author. Publication years and manuscript statuses follow the November 2026 CV.</p>
 {% for category in site.publication_category %}
   {% assign papers = site.publications | where: "category", category[0] | sort: "date" | reverse %}
   {% if papers.size > 0 %}
