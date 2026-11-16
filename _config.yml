@@ -26,7 +26,7 @@ author:
   avatar           : 
   name             : "Xinhao An"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Structural Engineering<br>Structural Health Monitoring<br>Physics-Informed AI<br>Data-Driven Modeling"
+  bio              : "PhD Candidate<br>Structural Engineering<br>Structural Health Monitoring<br>Physics-Informed AI"
   location         : "Dalian, China"
   employer         : "Dalian University of Technology"
   uri              : # URL
@@ -73,7 +73,7 @@ author:
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
+  tumblr            : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
@@ -144,8 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : # Add a personal social preview image when available   # Social media default site image (lives in /images/)
-og_description           :  # Social media default site image description
-# For specifying social profiles
+og_description           :  # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -344,10 +343,10 @@ whitelist:
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
+#    expect broken links (with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
