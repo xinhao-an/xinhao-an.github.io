@@ -26,7 +26,7 @@ author:
   avatar           : 
   name             : "Xinhao An"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Structural Engineering. Structural health monitoring and physics–data hybrid modeling."
+  bio              : "PhD Candidate in Structural Engineering<br>Structural Health Monitoring<br>Physics-Informed AI<br>Data-Driven Modeling"
   location         : "Dalian, China"
   employer         : "Dalian University of Technology"
   uri              : # URL
@@ -108,25 +108,25 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  staticman:
+    allowedFields          : ['name', 'email', 'url', 'message']
+    branch                 : "gh-pages" # "master", "gh-pages"
+    commitMessage          : "New comment."
+    filename               : comment-{@timestamp}
+    format                 : "yml"
+    moderation             : true
+    path                   : "_data/comments/{options.slug}"
+    requiredFields         : ['name', 'email', 'message']
+    transforms:
+      email                : "md5"
+    generatedFields:
+      date:
+        type               : "date"
+        options:
+          format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  atom_feed:
+    hide                   : true     # change to true to hide the RSS feed in the footer
+    path                   : # blank (default) uses feed.xml
 
 
 # SEO Related
