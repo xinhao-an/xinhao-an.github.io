@@ -33,8 +33,8 @@ September 2016–June 2020
 
 ## Research experience
 
-- **Digital Twin Engineering for Sustainable Operation of Port Infrastructure**, National Key R&D Program of China, December 2024–November 2029. Research team member; PI: Assoc. Prof. Jilin Hou. Dynamic load identification, response reconstruction, and digital-twin-based state estimation.
-- **Structural Health Monitoring of Wind- and Seismic-Resistant Structures**, National Key R&D Program of China, September 2020–June 2021. Research team member; PI: Assoc. Prof. Jilin Hou. Virtual constraints, computer vision, and additional virtual mass methods for damage identification.
+- **Digital Twin Engineering for Sustainable Operation of Port Infrastructure**, National Key R&D Program of China, December 2024–November 2029. Research team member. Dynamic load identification, response reconstruction, and digital-twin-based state estimation.
+- **Structural Health Monitoring of Wind- and Seismic-Resistant Structures**, National Key R&D Program of China, September 2020–June 2021. Research team member. Virtual constraints, computer vision, and additional virtual mass methods for damage identification.
 
 ## Publications
 
