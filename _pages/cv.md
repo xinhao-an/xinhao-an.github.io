@@ -49,8 +49,6 @@ September 2016–June 2020
 {% endif %}
 {% endfor %}
 
-*\* Corresponding author.*
-
 {% include manuscripts-in-progress.md %}
 
 {% include open-research-data.md %}
